@@ -27,7 +27,7 @@ jobs:
 - type: import
   parameters:
     type: har
-    fileName: "/zap/wrk/tmp/AwsomeTodo.har"
+    fileName: "/zap/wrk/tmp/AwesomeTodo.har"
 - type: passiveScan-wait
   parameters: {}
 - type: activeScan
